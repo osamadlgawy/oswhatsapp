@@ -1,0 +1,2 @@
+{'ver1':'1', 'ver2':'01', 'ver3':'\n•يتوفر تحديث جديد
+Base Updated 2.23.13.76.\n•New Added Row Changer.\n•New See Original Message before Edit.\n•General Bug fixed.\n•Improved AMSMods More Features System.\n' , 'dli':'https://osama11tech.blogspot.com/2023/11/2024.html'}
